@@ -1,0 +1,6 @@
+Privacy Policy (MrTemoon)
+
+MrTemoon stores the minimum data required to connect and post to TikTok: OAuth tokens, open_id, and publish status.
+Data is used only to authenticate API requests and show posting results to the user.
+We do not sell personal data. Tokens can be revoked in TikTok settings.
+Contact: YOUR_EMAIL
